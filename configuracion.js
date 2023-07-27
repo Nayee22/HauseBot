@@ -10,21 +10,21 @@ import {en, es, pt} from "./lib/idiomas/total-idiomas.js";
 
 //cambia los números que sean propietarios
 global.owner = [
-  ["593959425714", "🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰", true],
-  ["51993138466", "🔰  𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 🔰", true],
-  ["573184314110", "🔰 𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 🔰", true],
-  ["50246028932", "🔰  𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 🔰", true],
-  ["584125778026"],
-  ["595986674310"],
-  ["51936767238"],
-  ["50495625729"],
-  ["593968585383"],
-  ["5219996125657"],
-  ["51957041866"],
+  ["5491127914352", "🔰 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰", true],
+  ["5491127914352", "🔰  𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 🔰", true],
+  ["5491127914352", "🔰 𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 🔰", true],
+  ["51957106473", "🔰  𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 🔰", true],
+  ["51957106473"],
+  ["551957106473"],
+  ["51957106473"],
+  ["51957106473"],
+  ["51957106473"],
+  ["51957106473"],
+  ["5491127914352"],
 ];
-global.suittag = ["593959425714"];
-global.mods = ["595986674310"];
-global.prems = ["595986674310"];
+global.suittag = ["5491127914352"];
+global.mods = ["5491127914352"];
+global.prems = ["5491127914352"];
 
 (global.APIs = {
   // API Prefix
@@ -89,7 +89,7 @@ global.openai_org_id = "org-3";
 global.lenguajeGB = es;
 
 /* ______________________________________________ */
-global.creadorname = "𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
+global.creadorname = "𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭";
 global.creatorname = creadorname;
 global.library = "BAILEYS-MD";
 global.vs = "V10";
@@ -104,14 +104,14 @@ global.mes = d.toLocaleDateString("es", {month: "long"});
 global.año = d.toLocaleDateString("es", {year: "numeric"});
 global.tiempo = d.toLocaleString("en-US", {hour: "numeric", minute: "numeric", second: "numeric", hour12: true});
 //------------- Sticker WM -----------
-global.packname = `𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂`;
-global.author = `©⏤͟͟͞𝐓𝐇𝐄 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`;
+global.packname = `𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 `;
+global.author = `𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 `;
 //_______________
-global.wm = "𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓 | 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
-global.db3t = `©⏤͟͟͞𝐓𝐇𝐄 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`;
+global.wm = "𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭  | 𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 ";
+global.db3t = `𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 `;
 global.wm3 = db3t;
-global.codex = `Diego-Ofc`;
-global.igfg = "𝑫𝑶𝑹𝑹𝑨𝑻-𝑩𝑶𝑻";
+global.codex = `Gabi`;
+global.igfg = "𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 ";
 global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 //-------------------
 global.md = "https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg";
