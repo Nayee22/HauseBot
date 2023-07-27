@@ -29,8 +29,8 @@ let handler = async (m, {conn, usedPrefix}) => {
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 
 ╠
-║❒  [👑] *CREADOR: DIEGO-OFC*
-║❒  [#️⃣] *NUMERO: +593959425714*
+║❒  [👑] *CREADOR: FRANZUA*
+║❒  [#️⃣] *NUMERO: +5491127914352*
 ║❒  [🛠️] *PREFIJO: ${usedPrefix}*
 ║❒  [💬] *CHATS PRIVADOS: ${chats.length - groups.length}*
 ║❒  [💭] *CHAT DE GRUPOS: ${groups.length}* 
@@ -46,7 +46,7 @@ let handler = async (m, {conn, usedPrefix}) => {
 ║❒  [🗺️] *MODO*: ${self ? "*𝚙𝚛𝚒𝚟𝚊𝚍𝚘*" : "*𝚙𝚞𝚋𝚕𝚒𝚌𝚘*"}
 ║❒  [🔴] *RAM:* ${format(json.memory)}
 ╠
-*╠═〘 Dorrat-Bot-MD 〙 ═*
+*╠═〘 HuaseBot 〙 ═*
 `.trim();
   
    conn.sendMessage(
