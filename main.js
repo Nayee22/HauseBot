@@ -193,7 +193,7 @@ const connectionOptions = {
   msgRetryCounterMap,
   logger: pino({level: "silent"}),
   auth: state,
-  browser: ["Dorrat-Bot", "Safari", "9.7.0"],
+  browser: ["𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭", "Safari", "9.7.0"],
   version,
 };
 
