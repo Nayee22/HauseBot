@@ -559,7 +559,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p}) => {
   conn.sendMessage(m.chat, listMessage, {quoted: fkontak});
 };
 
-handler.command = /^(menucompleto|menu completo|allmenu|menú|help|menu)$/i;
+handler.command = /^(menu20)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;
