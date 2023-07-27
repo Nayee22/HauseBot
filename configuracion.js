@@ -114,7 +114,7 @@ global.codex = `Gabi`;
 global.igfg = "𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭 ";
 global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 //-------------------
-global.md = "https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg";
+global.md = "https://chat.whatsapp.com/ILKEk0Lg3rT0zNcinftAek";
 global.dorramd = md;
 global.tarje = "Banesco";
 global.yt = "http://youtube.com/@diegogameplays82";
